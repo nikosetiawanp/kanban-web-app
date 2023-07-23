@@ -44,7 +44,6 @@ This is challenging project, even as a group project. We gained deeper understan
 
 - [react.dev/learn](https://react.dev/learn) - This helped me when I need to search something about react
 - [supabasee.com/docs](https://supabase.com/docs/reference/javascript/initializing) - This helped me when I need to search something about supabase
-- 
 ## Roles
 
 - [Niko Setiawan P](https://github.com/nikosetiawanp) - Frontend Engineer
